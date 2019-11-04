@@ -1,3 +1,5 @@
 function (argument) {
-	// body...
+	
 }
+
+module.exports = Cat;
