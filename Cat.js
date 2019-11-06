@@ -1,4 +1,4 @@
-function (argument) {
+function Cat (mouse) {
 	this.stomach = [];
 }
 
